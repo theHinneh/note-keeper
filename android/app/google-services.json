@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "653486530463",
+    "project_id": "thehinneh-notes",
+    "storage_bucket": "thehinneh-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653486530463:android:ec7763c67102ebea6267aa",
+        "android_client_info": {
+          "package_name": "com.thehinneh.personalnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653486530463-582bom39shb4cvpquid1ogd2tj89u6lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_pii0NTwnU_ZZ0uwZi1lrEqf3-3pJtQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653486530463-582bom39shb4cvpquid1ogd2tj89u6lk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653486530463-b2pbk7kpev50sl47skvd8b0cg1l5aeop.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thehinneh.personalnotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
